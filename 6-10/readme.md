@@ -19,7 +19,7 @@
 * css
 * javaScript
 #### cosas de programacion vistas:
-> variables
-> vectores
-> tipos de datos
-> matrices
+> variables    
+> vectores    
+> tipos de datos   
+> matrices    
